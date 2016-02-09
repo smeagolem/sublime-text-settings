@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CSS3",
+		"CSScomb",
+		"Diffy",
+		"DocBlockr",
+		"DustBuster",
+		"Emmet",
+		"Jade",
+		"jQuery",
+		"JSONLint",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeCodeIntel",
+		"Theme - Brogrammer"
+	]
+}
