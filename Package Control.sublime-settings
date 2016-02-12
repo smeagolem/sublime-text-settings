@@ -5,7 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
+		"Babel",
 		"BracketHighlighter",
+		"Can I Use",
+		"ColorPicker",
 		"CSS3",
 		"CSScomb",
 		"Diffy",
@@ -20,6 +24,7 @@
 		"MarkdownEditing",
 		"Material Theme",
 		"Package Control",
+		"Pretty JSON",
 		"Sass",
 		"SFTP",
 		"SideBarEnhancements",

@@ -9,6 +9,7 @@
 	[
 		"subpixel_antialias"
 	],
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Markdown",
@@ -21,7 +22,6 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
-	"highlight_line": true,
 	"material_theme_compact_sidebar": true,
 	"material_theme_panel_separator": true,
 	"material_theme_tabs_autowidth": true,
