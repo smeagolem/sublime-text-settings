@@ -7,6 +7,7 @@
 	[
 		"Alignment",
 		"Babel",
+		"Blade Snippets",
 		"BracketHighlighter",
 		"Can I Use",
 		"ColorPicker",
@@ -18,6 +19,8 @@
 		"Jade",
 		"jQuery",
 		"JSONLint",
+		"Laravel 5 Artisan",
+		"Laravel Blade Highlighter",
 		"LESS",
 		"Markdown Preview",
 		"MarkdownEditing",
@@ -29,6 +32,10 @@
 		"SideBarEnhancements",
 		"Stylus",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
 		"Theme - Brogrammer",
 		"TypeScript"
 	]
