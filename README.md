@@ -6,7 +6,7 @@ My personal [Sublime Text 3] settings.
 
 Requires [Package Control] to be installed.
 
-QUICK START: Clone or download repository and place in *User* packages folder.
+QUICK START: Clone or download repository into *User* packages folder.
 
 Installation Guide:
 - In [Sublime Text 3], choose *preferences* -> *Browse Packages...*
