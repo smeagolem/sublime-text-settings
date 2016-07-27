@@ -38,6 +38,8 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
 		"Theme - Brogrammer",
-		"TypeScript"
+		"TypeScript",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
 	]
 }
