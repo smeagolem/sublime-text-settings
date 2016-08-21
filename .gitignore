@@ -9,6 +9,9 @@ Package Control.ca-certs/
 # Sublime Linter
 SublimeLinter/
 
+# Deviot
+Deviot/
+
 # SFTP servers
 sftp_servers/
 
